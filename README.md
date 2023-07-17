@@ -1,2 +1,1 @@
-#Gitbasic
 Hello World
